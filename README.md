@@ -63,8 +63,8 @@ Full-stack web application built with HTML, CSS, JavaScript, PHP, and MySQL.
 
 ## 📫 Connect With Me
 
-📧 Email: your-email-here  
-🔗 LinkedIn: your-linkedin-here  
+📧 Email: yadavaniketsingh22@gmail.com
+🔗 LinkedIn: 
 
 ---
 
