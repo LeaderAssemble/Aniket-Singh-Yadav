@@ -64,7 +64,7 @@ Full-stack web application built with HTML, CSS, JavaScript, PHP, and MySQL.
 ## 📫 Connect With Me
 
 📧 Email: yadavaniketsingh22@gmail.com
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/aniket-singh-yadav-22821135a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
